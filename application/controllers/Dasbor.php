@@ -26,6 +26,6 @@ class Dasbor extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('Dashboard');
+		$this->load->view('dashboard');
 	}
 }
